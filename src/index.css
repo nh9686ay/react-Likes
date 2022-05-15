@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://m.media-amazon.com/images/M/MV5BMTgxMzc2OTQwOV5BMl5BanBnXkFtZTgwODQ2OTgwNjE@._V1_.jpg");
+  background-size: cover;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+.count{
+  color:blue;
+  font-size: larger;
+}
+img{
+ width: 300px;
+ padding: 5%;
+}
+.profile{
+  color:black;
+}
+.plusButton{
+background-color: green;
+}
+.minusButton{
+  background-color: red;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
